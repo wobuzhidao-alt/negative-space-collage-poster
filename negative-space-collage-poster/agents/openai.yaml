@@ -1,0 +1,8 @@
+interface:
+  display_name: "Negative Space Collage Poster"
+  short_description: "Dreamy torn-paper portrait collage"
+  default_prompt: "Use $negative-space-collage-poster to transform the uploaded real-person photo into a vertical 3:4 dreamy negative-space handmade collage poster."
+  brand_color: "#7BA7A6"
+
+policy:
+  allow_implicit_invocation: true
